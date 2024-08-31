@@ -1,5 +1,4 @@
-Deploy: https://pizzeria-react-etapa3-3r2t0selj-angelica-sotos-projects.vercel.app
-
+Deploy: https://pizzeria-react-etapa5-9jkw41f88-angelica-sotos-projects.vercel.app
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
